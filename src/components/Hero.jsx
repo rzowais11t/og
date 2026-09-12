@@ -46,7 +46,7 @@ export default function Hero() {
         <span className="inline-block w-[0.05em] h-[0.75em] bg-white animate-pulse ml-1"></span>
       </h1>
 
-      <HeroBackgroundVideo className="relative z-[1] mt-10 h-[clamp(12rem,30vh,22rem)] shrink-0" />
+      <HeroBackgroundVideo className="absolute inset-0 z-0 h-full" />
 
       <div className="relative z-[2] pb-12 pt-10 grid grid-cols-1 min-[900px]:grid-cols-2 gap-8">
         <div></div>

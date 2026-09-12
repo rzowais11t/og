@@ -32,7 +32,7 @@ export default function HeroBackgroundVideo({ className = '' }) {
   }, [isDesktop]);
 
   return (
-    <div className={`absolute top-0 left-0 w-full h-full z-0 overflow-hidden pointer-events-none ${className}`}>
+    <div className={`relative w-full overflow-hidden pointer-events-none ${className}`}>
       <video
         key={isDesktop ? 'desktop-video' : 'mobile-video'}
         ref={videoRef}

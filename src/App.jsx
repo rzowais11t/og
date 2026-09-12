@@ -3,8 +3,6 @@ import { SoundProvider } from './context/SoundContext';
 import Preloader from './components/Preloader';
 import Header from './components/Header';
 import Footer from './components/Footer';
-import HeroBackgroundVideo from './components/HeroBackgroundVideo';
-
 import Home from './pages/Home';
 
 // Lazy-load subpages to reduce initial bundle size and speed up first paint
@@ -134,14 +132,7 @@ export default function App() {
       {/* 1. Preloader & Entry Flow (runs once on initial load) */}
       <Preloader />
 
-      {/* 2. Top-Level Background Video — shown only on the home/landing page */}
-      {isHome && (
-        <div className="fixed inset-0 z-0 overflow-hidden pointer-events-none">
-          <HeroBackgroundVideo />
-        </div>
-      )}
-
-      {/* 3. Global Scroll & Reveal Observer */}
+      {/* 2. Global Scroll & Reveal Observer */}
       <ScrollObserver pathname={pathname} />
 
       {/* 4. Global Persistent Header */}

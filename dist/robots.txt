@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Block common junk paths
+Disallow: /404
+Disallow: /*.json$
+
+Sitemap: https://wexel.ai/sitemap.xml

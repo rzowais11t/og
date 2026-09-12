@@ -1,0 +1,80 @@
+# WEXEL — AI Automation & Infrastructure
+> Enterprise-grade AI automation systems engineered to automate operations, eliminate inefficiencies, and create measurable competitive advantage.
+
+Contact: owais@wexel.ai
+Website: https://wexel.ai
+
+## Overview
+
+WEXEL is an enterprise AI automation company that designs, builds, and deploys bespoke AI infrastructure for businesses. We offer end-to-end AI implementation — from strategy and architecture through deployment, monitoring, and ongoing optimisation — without requiring an internal engineering team from the client.
+
+Our mission is to build the infrastructure for the next generation of autonomous enterprise. We empower businesses with systems that don't just assist, but autonomously execute complex tasks with precision and scale.
+
+## Products & Services
+
+### AI Voice Systems
+> https://wexel.ai/voice
+
+Intelligent conversational voice agents that handle both inbound and outbound calls with human-like latency. Capable of qualifying leads, resolving customer inquiries 24/7, and running automated outbound campaigns for sales, collections, and feedback. Built with dynamic conversation branching to handle complex interactions without human intervention.
+
+Key capabilities:
+- Inbound Resolution: Instantly resolve customer inquiries around the clock without wait times, reducing operational overhead.
+- Outbound Campaigns: Automate proactive outreach for sales, collections, and feedback with dynamic branching logic.
+
+### Business Intelligence
+> https://wexel.ai/Bizintel
+
+Transform raw and siloed data into predictive insights, real-time dashboards, and automated reporting systems that drive executive decision-making. Enables data-driven operations across entire organisations.
+
+Key capabilities:
+- Predictive Analytics: Anticipate market trends, inventory demands, and customer behaviours before they occur.
+- Centralised Dashboards: Unify siloed data streams into a single source of truth with real-time visualisations.
+
+### Growth Automation
+> https://wexel.ai/autogrowth
+
+Scale acquisition channels infinitely using algorithmic campaign management and dynamic AI-generated content. Automates personalised lead generation sequences and ad creative optimisation in real time.
+
+Key capabilities:
+- Algorithmic Outreach: Automated, personalised lead generation sequences optimised for highest conversion probability.
+- Dynamic Campaigns: AI-generated ad creatives and copy that adapt in real time to performance metrics.
+
+### Core Platform Capabilities
+- AI Agent Development: Custom AI agents that handle repetitive tasks, qualify leads, and manage customer interactions with precision.
+- Workflow Automation: Automate repetitive tasks, streamline workflows, and optimise processes for maximum efficiency.
+- System Integration: Connect AI systems with CRMs, databases, and third-party tools for seamless data flow.
+- Data Intelligence: Transform raw data into actionable insights, automated reports, and intelligent decision support systems.
+- End-to-End Delivery: Fully formatted scripts, research compilations, and creative briefs ready for production.
+- Monitoring & Support: Ongoing performance tracking, optimisation, and maintenance.
+
+## Our Vision
+> https://wexel.ai/vision
+
+WEXEL believes the future of business operations lies in intelligent automation. Our vision is to empower enterprises with systems that autonomously execute complex tasks with precision and scale — ensuring partners stay ahead in a rapidly evolving technological landscape where efficiency and adaptability are paramount.
+
+## FAQs
+
+**Is company data kept private?**
+Yes. We implement enterprise-grade security — controlled access, encrypted data handling, and architectures designed around confidentiality from day one.
+
+**How long does deployment take?**
+Smaller workflow automations can be delivered within weeks. Larger AI platforms follow a phased implementation plan designed to maximise speed without sacrificing quality.
+
+**Do we need an internal engineering team?**
+No. WEXEL handles strategy, architecture, development, deployment, and ongoing optimisation. We can act as your full AI implementation partner.
+
+**How is pricing structured?**
+Projects are scoped according to complexity, integrations, and business objectives. After an AI Audit, clients receive a transparent proposal outlining deliverables, milestones, timelines, and pricing.
+
+**Can existing software be integrated?**
+Yes. Our solutions are designed to work with tools your business already relies on, extending existing systems rather than forcing replacement.
+
+## Contact
+> https://wexel.ai/contact
+
+Email: owais@wexel.ai
+Office: 123 Innovation Drive, Tech District, San Francisco, CA 94103
+
+## Legal
+- Privacy Policy: https://wexel.ai/privacy
+- Terms of Service: https://wexel.ai/terms

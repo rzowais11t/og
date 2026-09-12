@@ -1,0 +1,45 @@
+# ai.txt — AI crawler permissions for WEXEL (https://wexel.ai)
+# Standard: https://site.spawning.ai/spawning-ai-txt
+# This file governs how AI systems may use content from this site.
+
+# --- Search & Retrieval AI (e.g. Perplexity, ChatGPT browsing, Gemini) ---
+# Allow AI assistants to index and cite our content in answers.
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Omgilibot
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+# --- AI Training (opt-out of bulk training scrapes) ---
+User-agent: CCBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+# --- Sitemap pointer ---
+Sitemap: https://wexel.ai/sitemap.xml

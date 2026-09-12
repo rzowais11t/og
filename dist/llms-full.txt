@@ -1,0 +1,116 @@
+# WEXEL — AI Automation & Infrastructure — Full Site Content
+# llms-full.txt: complete verbatim content for AI ingestion
+# Standard: https://llmstxt.org
+# Last updated: 2026-08-06
+
+---
+
+## Page: Home (/)
+
+### Hero
+"Start Winning." — Bespoke AI systems engineered to automate operations, eliminate inefficiencies, and create measurable competitive advantage.
+
+### Capabilities
+Built for businesses that refuse to waste time.
+
+- **AI Agent Development**: Custom AI agents that handle repetitive tasks, qualify leads, and manage customer interactions with precision.
+- **Workflow Automation**: Automate repetitive tasks, streamline workflows, and optimise processes for maximum efficiency.
+- **System Integration**: Connect your AI systems with CRMs, databases, and third-party tools for seamless data flow and automation.
+- **Data Intelligence**: Transform raw data into actionable insights, automated reports, and intelligent decision support systems.
+- **End-to-End Delivery**: Receive fully formatted scripts, research compilations, and creative briefs ready for production.
+- **Monitoring & Support**: Ongoing performance tracking, optimisation, and maintenance to ensure continued success.
+
+### Flagship Products
+Most deployed. Proven in production. The AI solutions selected for their reliability, adaptability, and measurable business impact.
+
+- **AI Voice Systems**: Intelligent conversational agents that handle inbound and outbound calls, qualify leads, and provide 24/7 support with human-like latency.
+- **Growth Automation**: Scale outreach and marketing efforts with automated campaigns, intelligent lead scoring, and personalised content generation.
+- **Business Intelligence**: Transform scattered data into real-time dashboards, predictive analytics, and automated reporting systems that drive executive decision-making.
+
+### FAQ
+**Q: Is our company data completely private?**
+A: Absolutely. Security is foundational to every engagement. We implement enterprise-grade security practices, controlled access, encrypted data handling, and architectures designed around confidentiality from day one.
+
+**Q: How long does deployment take?**
+A: Every project is unique. Smaller workflow automations can be delivered within weeks, while larger AI platforms follow a phased implementation plan designed to maximise speed without sacrificing quality.
+
+**Q: Do we need an internal engineering team?**
+A: No. We handle strategy, architecture, development, deployment, and ongoing optimisation. If your internal team exists, we collaborate seamlessly. If it doesn't, we become your AI implementation partner.
+
+**Q: How is the investment structured?**
+A: Projects are scoped according to complexity, integrations, and business objectives. Following your AI Audit, you'll receive a transparent proposal outlining deliverables, milestones, timelines, and pricing.
+
+**Q: Can existing software be integrated?**
+A: Yes. Our solutions are designed to work with the tools your business already relies on, extending existing systems instead of forcing unnecessary replacement.
+
+---
+
+## Page: AI Voice Systems (/voice)
+
+Deploy intelligent voice agents capable of handling complex customer interactions at scale with human-like conversation flows.
+
+### Voice Capabilities — Conversational intelligence for modern businesses.
+
+- **Inbound Resolution**: Instantly resolve customer inquiries 24/7 without wait times, reducing operational overhead.
+- **Outbound Campaigns**: Automate proactive outreach for sales, collections, and feedback with dynamic branching.
+
+---
+
+## Page: Business Intelligence (/Bizintel)
+
+Transform raw data into predictive insights, enabling data-driven decision making across your entire organisation.
+
+### Data Advantage — See the future of your operations.
+
+- **Predictive Analytics**: Anticipate market trends, inventory demands, and customer behaviours before they happen.
+- **Centralised Dashboards**: Unify siloed data streams into a single source of truth with real-time visualisations.
+
+---
+
+## Page: Growth Automation (/autogrowth)
+
+Scale your acquisition channels infinitely using algorithmic campaign management and dynamic content generation.
+
+### Automated Scaling — The engine for hyper-growth.
+
+- **Algorithmic Outreach**: Automate personalised lead generation sequences optimised for highest conversion probability.
+- **Dynamic Campaigns**: AI-generated ad creatives and copy that adapt in real time to performance metrics.
+
+---
+
+## Page: Our Vision (/vision)
+
+Building the infrastructure for the next generation of autonomous enterprise.
+
+At WEXEL, we believe that the future of business operations lies in intelligent automation. Our vision is to empower enterprises with systems that don't just assist, but autonomously execute complex tasks with precision and scale.
+
+We are committed to pushing the boundaries of what's possible with AI, ensuring our partners stay ahead in a rapidly evolving technological landscape where efficiency and adaptability are paramount.
+
+---
+
+## Page: Contact (/contact)
+
+Ready to automate your enterprise? Get in touch with our team of AI infrastructure specialists.
+
+- **Email**: owais@wexel.ai
+- **Office**: 123 Innovation Drive, Tech District, San Francisco, CA 94103
+
+---
+
+## Page: Privacy Policy (/privacy)
+
+1. **Information Collection**: We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey, or fill out a form. The collected information includes your name, email address, phone number, and/or credit card information.
+
+2. **Use of Information**: Any of the information we collect from you may be used to personalise your experience, improve our website, improve customer service, process transactions, or administer a contest, promotion, survey, or other site feature.
+
+3. **Data Protection**: We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. We offer the use of a secure server.
+
+---
+
+## Page: Terms of Service (/terms)
+
+1. **Acceptance of Terms**: By accessing and using our services, you accept and agree to be bound by the terms and provision of this agreement. Any participation in this service will constitute acceptance of this agreement.
+
+2. **Use Licence**: Permission is granted to temporarily access the materials on our website for personal, non-commercial transitory viewing only. This is the grant of a licence, not a transfer of title.
+
+3. **Disclaimer**: The materials on our website are provided on an 'as is' basis. We make no warranties, expressed or implied, and hereby disclaim and negate all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.

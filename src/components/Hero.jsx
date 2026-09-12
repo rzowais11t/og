@@ -40,7 +40,7 @@ export default function Hero() {
 
   return (
     <section className="relative min-h-screen flex flex-col justify-between px-6 min-[900px]:px-12 overflow-hidden border-t-0 py-0 z-[2]">
-      <HeroBackgroundVideo className="top-[42%] h-[58%]" />
+      <HeroBackgroundVideo className="top-[70%] h-[30%]" />
       <div className="absolute top-0 left-0 w-full h-full z-[1] hero-overlay pointer-events-none"></div>
 
       <h1 className="relative z-[2] font-space font-bold text-[clamp(4rem,12vw,11rem)] leading-[0.92] tracking-[-0.03em] pt-[6rem] min-[500px]:pt-[8rem] max-[500px]:text-[3.2rem] reveal">
